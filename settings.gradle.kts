@@ -15,4 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "GetLocation"
 include(":app")
- 
+include(":location")

@@ -1,4 +1,4 @@
-package com.creardev.getlocation
+package com.creardev.location
 
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory

@@ -1,4 +1,4 @@
-package com.creardev.getlocation
+package com.creardev.location
 
 import retrofit2.Call
 import retrofit2.http.Field

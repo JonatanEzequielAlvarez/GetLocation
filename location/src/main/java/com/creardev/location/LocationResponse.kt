@@ -1,4 +1,4 @@
-package com.creardev.getlocation
+package com.creardev.location
 
 data class LocationResponse(
     val data: LocationData

@@ -1,4 +1,4 @@
-package com.creardev.getlocation
+package com.creardev.location
 
 import okhttp3.*
 import java.io.IOException
